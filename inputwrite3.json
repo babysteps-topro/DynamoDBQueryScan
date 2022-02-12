@@ -1,0 +1,244 @@
+{
+  "Leaderboard" :[
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "neymar@borislam.com"},
+            "sk" : { "S" : "neymar@borislam.com"},
+            "location" : { "S" : "Brazil"},
+            "user_name" : {"S": "Neymar"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "neymar@borislam.com"},
+            "sk" : { "S" : "FIFA"},
+            "top_score" : {"N": "99"},
+            "score_date" : {"S": "21/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "neymar@borislam.com"},
+            "sk" : { "S" : "NBA"},
+            "top_score" : {"N": "90"},
+            "score_date" : {"S": "212/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "neymar@borislam.com"},
+            "sk" : { "S" : "MARIO"},
+            "top_score" : {"N": "79"},
+            "score_date" : {"S": "22/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "rooney@borislam.com"},
+            "sk" : { "S" : "rooney@borislam.com"},
+            "location" : { "S" : "UK"},
+            "user_name" : {"S": "W.Rooney"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "rooney@borislam.com"},
+            "sk" : { "S" : "FIFA"},
+            "top_score" : {"N": "77"},
+            "score_date" : {"S": "21/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "rooney@borislam.com"},
+            "sk" : { "S" : "NBA"},
+            "top_score" : {"N": "55"},
+            "score_date" : {"S": "212/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "rooney@borislam.com"},
+            "sk" : { "S" : "MARIO"},
+            "top_score" : {"N": "64"},
+            "score_date" : {"S": "22/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "gullit@borislam.com"},
+            "sk" : { "S" : "gullit@borislam.com"},
+            "location" : { "S" : "Holland"},
+            "user_name" : {"S": "R.Gullit"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "gullit@borislam.com"},
+            "sk" : { "S" : "FIFA"},
+            "top_score" : {"N": "34"},
+            "score_date" : {"S": "21/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "gullit@borislam.com"},
+            "sk" : { "S" : "NBA"},
+            "top_score" : {"N": "98"},
+            "score_date" : {"S": "212/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "gullit@borislam.com"},
+            "sk" : { "S" : "MARIO"},
+            "top_score" : {"N": "34"},
+            "score_date" : {"S": "22/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "ramos@borislam.com"},
+            "sk" : { "S" : "ramos@borislam.com"},
+            "location" : { "S" : "Spain"},
+            "user_name" : {"S": "Sergio Ramos"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "ramos@borislam.com"},
+            "sk" : { "S" : "FIFA"},
+            "top_score" : {"N": "88"},
+            "score_date" : {"S": "21/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "ramos@borislam.com"},
+            "sk" : { "S" : "NBA"},
+            "top_score" : {"N": "76"},
+            "score_date" : {"S": "212/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "ramos@borislam.com"},
+            "sk" : { "S" : "MARIO"},
+            "top_score" : {"N": "73"},
+            "score_date" : {"S": "22/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "raul@borislam.com"},
+            "sk" : { "S" : "raul@borislam.com"},
+            "location" : { "S" : "Spain"},
+            "user_name" : {"S": "Raul"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "raul@borislam.com"},
+            "sk" : { "S" : "FIFA"},
+            "top_score" : {"N": "99"},
+            "score_date" : {"S": "21/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "raul@borislam.com"},
+            "sk" : { "S" : "NBA"},
+            "top_score" : {"N": "90"},
+            "score_date" : {"S": "212/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "raul@borislam.com"},
+            "sk" : { "S" : "MARIO"},
+            "top_score" : {"N": "79"},
+            "score_date" : {"S": "22/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "enrique@borislam.com"},
+            "sk" : { "S" : "enrique@borislam.com"},
+            "location" : { "S" : "Spain"},
+            "user_name" : {"S": "L. Enrique"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "enrique@borislam.com"},
+            "sk" : { "S" : "FIFA"},
+            "top_score" : {"N": "65"},
+            "score_date" : {"S": "21/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "enrique@borislam.com"},
+            "sk" : { "S" : "NBA"},
+            "top_score" : {"N": "88"},
+            "score_date" : {"S": "212/2/2022"}
+          }
+        }
+    },
+    {
+        "PutRequest" : {
+          "Item" : {
+            "user_id" : { "S" : "enrique@borislam.com"},
+            "sk" : { "S" : "MARIO"},
+            "top_score" : {"N": "84"},
+            "score_date" : {"S": "22/2/2022"}
+          }
+        }
+    }
+  ]
+}
