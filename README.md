@@ -11,7 +11,7 @@ Youtube Video:
 Instruction install AWS CLI:
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Q_4YXlR0/0.jpg)](http://www.youtube.com/watch?v=Q_4YXlR0 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/pE-Q_4YXlR0/0.jpg)](http://www.youtube.com/watch?v=pE-Q_4YXlR0 "Video Title")
 
 
 
